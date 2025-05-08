@@ -1,0 +1,22 @@
+{
+  "name": "xcc-importer",
+  "title": "XCC Character Importer",
+  "description": "Allows import of manually extracted XCC character data into the Dungeon Crawl Classics system.",
+  "version": "1.0.0",
+  "author": "ChatGPT + User",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "scripts": [
+    "scripts/upload-sheet.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://your-repo-url.com",
+  "manifest": "https://your-repo-url.com/module.json",
+  "download": "https://your-repo-url.com/xcc-importer.zip"
+}
